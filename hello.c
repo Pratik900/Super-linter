@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
-{
-  int a=5,b=6,c;
+void main(){
+  int a,b,c;
+  a=5;
+  b=6;
   c=a+b;
   printf("%d",&c);
 }
