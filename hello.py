@@ -9,3 +9,4 @@ print(omkar)
 namee,age="Pratik",21
 print(namee,age)
 11aas
+saaa
