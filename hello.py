@@ -8,5 +8,3 @@ print(omkar)
 
 namee,age="Pratik",21
 print(namee,age)
-saaa
-saasa
