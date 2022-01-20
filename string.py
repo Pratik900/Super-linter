@@ -4,7 +4,7 @@
  
  
 # Defining strings
-var1 = "Hello "
+var1 = "Hello"
 var2 = "World"
  
 # + Operator is used to combine strings
